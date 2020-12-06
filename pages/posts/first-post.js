@@ -6,7 +6,7 @@ export default function FirstPost() {
             <h1>First Post</h1>
             <h2>
                 <Link href="/">
-                    Back to home
+                    Back to home and test git
                 </Link>
             </h2>
         </>
